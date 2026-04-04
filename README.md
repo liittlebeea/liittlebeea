@@ -5,9 +5,9 @@
 <h4>
   Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻
 </h4>
-<h1>
+<h4>
   Venho explorando o mundo da programação, onde meu maior interesse está na área de desenvolvimento e design de jogos 🎮
-</h1>
+</h4>
 
 </div>
 
