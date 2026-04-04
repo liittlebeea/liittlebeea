@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liittlebeea&layout=compact)
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liittlebeea&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
