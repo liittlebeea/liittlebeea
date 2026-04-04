@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>💜 Bea aqui!!</h1>
+<h1>Bea aqui!! 💜</h1>
 
 <h4>
   Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻
@@ -31,6 +31,14 @@
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liittlebeea&show_icons=true&theme=tokyonight&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0d1117" />
+<img height="180em" src="https://streak-stats.demolab.com?user=liittlebeea&theme=tokyonight&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117" />
+</div>
 ---
 
 <div align="center">
