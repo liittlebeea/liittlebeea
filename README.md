@@ -1,11 +1,11 @@
 ## 👋 Oii, Bea aqui!
 
-Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻  
-Venho explorando o mundo da programação e, no meio de tudo isso, acabei me interessando de verdade por desenvolvimento de jogos 🎮 — é a área que mais me prende e que quero me aprofundar cada vez mais.
+- Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻  
+- Venho explorando o mundo da programação, onde meio maior interesse está na área de desenvolvimento e design de jogos 🎮
 
 ---
 
-## 📊 Meus Stats
+## 📊 GitHub Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
 
@@ -33,8 +33,6 @@ Venho explorando o mundo da programação e, no meio de tudo isso, acabei me int
 ---
 
 <div align="center">
-
-✨ "Entre bugs e ideias, tentando criar algo legal todos os dias." ✨  
 
 🎮 + 💻 = ❤️  
 
