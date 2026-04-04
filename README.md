@@ -7,9 +7,7 @@ Venho explorando o mundo da programação e, no meio de tudo isso, acabei me int
 
 ## 📊 Meus Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
 
 ---
 
