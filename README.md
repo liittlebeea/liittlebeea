@@ -36,9 +36,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liittlebeea&layout=compact&theme=tokyonight&title_color=A855F7&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liittlebeea&layout=compact&theme=tokyonight&title_color=A855F7&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8&cache_seconds=1800" />
   <img height="180em" src="https://streak-stats.demolab.com?user=liittlebeea&theme=tokyonight&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117" />
 </div>
+
 ---
 
 <div align="center">
