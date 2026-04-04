@@ -33,12 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liittlebeea&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 <div align="center">
   <a href="mailto:lfs.beatriz.leonardo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
