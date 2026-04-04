@@ -7,8 +7,6 @@ Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvi
 Venho explorando o mundo da programação, onde meu maior interesse está na área de desenvolvimento e design de jogos 🎮
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=A855F7&size=22&center=true&vCenter=true&width=500&lines=Transformando+código+em+experiências...;Game+Dev+in+progress+🎮;Sempre+aprendendo+algo+novo+✨" />
-
 </div>
 
 ---
