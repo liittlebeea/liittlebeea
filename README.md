@@ -1,39 +1,44 @@
-## 👋 Oii, Bea aqui!
+<h1 align="center">Bea aqui!! 💜</h1>
 
+<p align="center">
 - Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻  
-- Venho explorando o mundo da programação, onde meio maior interesse está na área de desenvolvimento e design de jogos 🎮
+- Venho explorando o mundo da programação, onde meu maior interesse está na área de desenvolvimento e design de jogos 🎮
+</p>
 
----
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=liittlebeea&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liittlebeea&layout=compact&theme=radical" />
+</div>
 
 ---
 
-## 🚀 Linguagens
+## 🚀 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,flask,mysql,vscode" />
+</div>
 
 ---
 
-## 🛠️ Outras Tecnologias
+## 📬 Contato
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![BrModelo](https://img.shields.io/badge/BrModelo-FF6F00?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
+  <a href="mailto:lfs.beatriz.leonardo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/liittlebeea" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/liittlebeea" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
-
-🎮 + 💻 = ❤️  
-
+  🎮 + 💻 = ❤️
 </div>
