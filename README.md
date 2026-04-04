@@ -36,9 +36,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liittlebeea&show_icons=true&theme=tokyonight&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liittlebeea&show_icons=true&theme=tokyonight&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://streak-stats.demolab.com?user=liittlebeea&theme=tokyonight&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117" />
 </div>
+
 ---
 
 <div align="center">
