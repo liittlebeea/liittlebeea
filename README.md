@@ -1,35 +1,37 @@
 <div align="center">
 
-<h1><font color="#A855F7">Bea aqui!! 💜</font></h1>
+<h1>💜 Bea aqui!!</h1>
 
 <p>
-  Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻<br>
-  Venho explorando o mundo da programação, onde meu maior interesse está na área de desenvolvimento e design de jogos 🎮
+Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻
+Venho explorando o mundo da programação, onde meu maior interesse está na área de desenvolvimento e design de jogos 🎮
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=A855F7&size=22&center=true&vCenter=true&width=500&lines=Transformando+código+em+experiências...;Game+Dev+in+progress+🎮;Sempre+aprendendo+algo+novo+✨" />
+
 </div>
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <img alt="Python" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Java" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="JavaScript" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="HTML5" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Flask" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img alt="MySQL" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="VS Code" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Canva" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img alt="Git" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img alt="Python" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="Java" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="JavaScript" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="HTML5" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS3" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="Flask" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img alt="MySQL" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="VS Code" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="Canva" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img alt="Git" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 </div>
 
 ---
-
-## 📬 Contato
 
 <div align="center">
   <a href="mailto:lfs.beatriz.leonardo@gmail.com">
@@ -43,5 +45,7 @@
 ---
 
 <div align="center">
-  🎮 + 💻 = ❤️
+
+🎮 + 💻 = ❤️
+
 </div>
