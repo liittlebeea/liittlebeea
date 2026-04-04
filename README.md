@@ -1,42 +1,8 @@
 <h1 align="center">Bea aqui!! 💜</h1>
 
- - Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻<br>
- - Venho explorando o mundo da programação, onde meu maior interesse está na área de desenvolvimento e design de jogos 🎮
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=liittlebeea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=liittlebeea&show_icons=true&theme=default&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=liittlebeea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liittlebeea&layout=compact&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liittlebeea&layout=compact&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=liittlebeea&layout=compact&theme=radical"
-  />
-</picture>
-
+  - Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻<br>
+  - Venho explorando o mundo da programação, onde meu maior interesse está na área de desenvolvimento e design de jogos 🎮
 </div>
 
 ---
@@ -60,8 +26,6 @@
 </div>
 
 ---
-
-## 📬 Contato
 
 <div align="center">
   <a href="mailto:lfs.beatriz.leonardo@gmail.com">
