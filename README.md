@@ -35,9 +35,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liittlebeea&layout=compact&theme=tokyonight&title_color=A855F7&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liittlebeea&layout=compact)
 
 ---
 
