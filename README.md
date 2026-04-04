@@ -1,8 +1,12 @@
-<h1 align="center">Bea aqui!! 💜</h1>
-
 <div align="center">
-  - Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻<br>
-  - Venho explorando o mundo da programação, onde meu maior interesse está na área de desenvolvimento e design de jogos 🎮
+
+<h1><font color="#A855F7">Bea aqui!! 💜</font></h1>
+
+<p>
+  Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻<br>
+  Venho explorando o mundo da programação, onde meu maior interesse está na área de desenvolvimento e design de jogos 🎮
+</p>
+
 </div>
 
 ---
@@ -25,9 +29,12 @@
 
 ---
 
+## 📬 Contato
+
 <div align="center">
   <a href="mailto:lfs.beatriz.leonardo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://instagram.com/liittlebeea" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
