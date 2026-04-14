@@ -1,19 +1,20 @@
-<div align="center">
+<div>
 
-<h1>Bea aqui!! 💜</h1>
+<h1 align="center">Beatriz aqui!! 💜</h1>
 
 <h4>
-  Tenho 17 anos e estou no 3º ano do ensino médio no IFSP, onde curso Desenvolvimento de Sistemas 💻
-</h4>
-<h4>
-  Venho explorando o mundo da programação, onde meu maior interesse está na área de desenvolvimento e design de jogos 🎮
+  • Tenho 17 anos e estou no 3º ano do ensino médio no IFSP estudando Desenvolvimento de Sistemas 💻 <br>
+  • Paxão pela área de desenvolvimento e design de jogos 🎮 <br>
+  • Aprendendo...
 </h4>
 
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🚀 Tecnologias & Ferramentas
+</div>
 
 <div align="center">
 
