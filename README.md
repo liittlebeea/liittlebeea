@@ -4,7 +4,7 @@
 
 <div>
 <h4 align="center"> 
-  Tenho 17 anos e estou no 3º ano do ensino médio no IFSP estudando Desenvolvimento de Sistemas 💻 <br>
+  Tenho 18 anos e estou no 3º ano do ensino médio no IFSP estudando Desenvolvimento de Sistemas 💻 <br>
   Paxão pela área de desenvolvimento e design de jogos 🎮 <br>
   Aprendendo... 
 </h4>
